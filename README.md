@@ -1,0 +1,2 @@
+# premium-priv-transfer-001-cross-border-transfer-assessme
+You're building a global product, but cross-border data transfers are a compliance minefield. Without a structured assessment framework, you're flying blind on GDPR, CCPA, and emerging regulations—risking fines, user trust, and your engineering roadmap.  The Cross-Border Transfer Assessment Template gives privacy engineers and compliance teams a ba
